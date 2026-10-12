@@ -3,7 +3,7 @@
     python train.py
 
 Logistic regression was the strongest model in cross-validation in my churn analysis notebook
-(github.com/Fasiuu/telco-churn-prediction), and it's small, fast and explainable, which suits an
+(github.com/f451h/telco-churn-prediction), and it's small, fast and explainable, which suits an
 API: each prediction can come with the features that pushed it up or down.
 """
 from __future__ import annotations

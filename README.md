@@ -2,7 +2,7 @@
 
 A production-style REST API that serves a customer churn model. It covers input validation, an explanation with every prediction, batch scoring, Prometheus metrics, structured logs, Docker, and a CI pipeline that builds and smoke-tests the container.
 
-The model comes from my [telco churn analysis](https://github.com/Fasiuu/telco-churn-prediction). This repo is about the part that comes after the notebook: **getting a model into a service other systems can call.**
+The model comes from my [telco churn analysis](https://github.com/f451h/telco-churn-prediction). This repo is about the part that comes after the notebook: **getting a model into a service other systems can call.**
 
 ## Endpoints
 
